@@ -55,9 +55,9 @@ On Pinterest, the gimmick is pins on a bulletin board, so I changed my app to re
 
 These initial sketches informed the redesign of the app’s primary pages. Those marked with green stars were chosen and referenced in the wireframe and high-fidelity designs.
 
-<img src="../Images/Home/CaseStudies/Tessera/Tessera_Sketches_1.png" height="200"/>
-<img src="../Images/Home/CaseStudies/Tessera/Tessera_Sketches_2.png" height="200"/>
-<img src="../Images/Home/CaseStudies/Tessera/Tessera_Sketches_3.png" height="200"/>
+<img src="../Images/Home/CaseStudies/Tessera/Tessera_Sketches_1.png" width="300"/>
+<img src="../Images/Home/CaseStudies/Tessera/Tessera_Sketches_2.png" width="300"/>
+<img src="../Images/Home/CaseStudies/Tessera/Tessera_Sketches_3.png" width="300"/>
 
 ### Wireflow
 

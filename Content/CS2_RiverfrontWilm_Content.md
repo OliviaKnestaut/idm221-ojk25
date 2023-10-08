@@ -40,9 +40,9 @@ The Riverfront Wilmington website is in need of reworking because the current we
 
 the audience of this website covers a wide range, so I created 3 user personas to base my solutions around. these three personas are essentially, the local, the worker, and the tourist.
 
-<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Persona-1.png" height="175"/>
-<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Persona-2.png" height="175"/>
-<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Persona-3.png" height="175"/>
+<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Persona-1.png" width="300"/>
+<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Persona-2.png" width="300"/>
+<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Persona-3.png" width="300"/>
 
 ## Roles & Responsibilities
 
@@ -70,16 +70,16 @@ In IDM 211: Interface Design I, we were tasked with selecting a website we thoug
 
 After determining some of the main things to focus on improving I began to test font and color pairings. I chose an orange/rust and blue/teal color scheme because I felt it captured the historical and industrial roots of the Wilmington Riverfront as well as the river. for my header and title font I chose Reem Kufi, in all caps, and for my body text, I chose Baskerville. I think the sans-serif and serif fonts have a nice contrast that feels both modern and historical.
 
-<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Mood-Board-1.png" height="175"/>
-<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Mood-Board-2.png" height="175"/>
-<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Mood-Board-3.png" height="175"/>
+<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Mood-Board-1.png" width="300"/>
+<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Mood-Board-2.png" width="300"/>
+<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Mood-Board-3.png" width="300"/>
 
 ### Site Maps and Navigation Reorganization
 
 In order to reorganize the navigation menu I had my peers participate in a card sort activity. I used their input to recategorize the pages and make site maps to inform my website design. Ultimately, I condensed the two previous navigation menus into one navigation bar with five main sections: explore, history, home, about, and events. some pages were combined together, and others resorted under a more relevant navigation item.
 
-<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Current-Sitemap.png" height="300"/>
-<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-New-Sitemap.png" height="300"/>
+<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Current-Sitemap.png" width="300"/>
+<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-New-Sitemap.png" width="300"/>
 
 ### Wireframes and Iteration
 
@@ -97,13 +97,13 @@ After creating ideation sketches, I began to build preliminary wireframes in Fig
 
 Moving into IDM 212, I had to take my designs from the previous class and prototype them, with 3 specific and complex components built out. My components were: a sub navigation system based on my initial site map, a weekly event calendar, and an interactive map. I created user flows for these interactions to solidify how each would work in the prototype. I also had to determine which of my personas would aid in completing their primary task. I used component sets to build out each of my main interactions. They were only partially built out, so long as they could be demonstrated to complete my persona’s tasks. I also built out some smaller and more general interactions like buttons and links across the pages.
 
-<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Subnavigation.png" height="300"/>
-<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Event-Calendar.png" height="300"/>
-<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Interactive-Map.png" height="300"/>
+<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Subnavigation.png" width="300"/>
+<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Event-Calendar.png" width="300"/>
+<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Interactive-Map.png" width="300"/>
 
-<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Subnavigation-Figma.png" height="175"/>
-<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Event-Calendar-Figma.png" height="175"/>
-<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Interactive-Map-Figma.png" height="175"/>
+<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Subnavigation-Figma.png" width="300"/>
+<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Event-Calendar-Figma.png" width="300"/>
+<img src="../Images/Home/CaseStudies/RiverfrontWilm/Riverfront-Wilm-Interactive-Map-Figma.png" width="300"/>
 
 ## Results
 

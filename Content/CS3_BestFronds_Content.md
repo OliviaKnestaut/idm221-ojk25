@@ -39,8 +39,8 @@ College students need a device to help them care for indoor plants and cultivate
 
 Our target audience age range was 15-25 year old high school and college students. The products were designed with experienced and non-experience plant owners in mind.
 
-<img src="../Images/Home/CaseStudies/BestFronds/Best-Fronds-Persona-1.png" height="200"/>
-<img src="../Images/Home/CaseStudies/BestFronds/Best-Fronds-Persona-2.png" height="200"/>
+<img src="../Images/Home/CaseStudies/BestFronds/Best-Fronds-Persona-1.png" width="300"/>
+<img src="../Images/Home/CaseStudies/BestFronds/Best-Fronds-Persona-2.png" width="300"/>
 
 ## Roles & Responsibilities
 
@@ -99,8 +99,8 @@ College students face fatigue from classes. Stress from a more difficult academi
 
 We conducted a survey of students at our university to determine students attitudes towards keeping plants, their experiences, struggles, and input on our project ideas. Through our survey we found that 35% of students surveyed kept no plants and 35% kept only 1-2 plants. 70% of students reported “often” or “always” struggling with how much to water their plants and 53% reported “often” or “always” struggling with how much sun their plants needed. This survey also helped us determine a target price range which would impact the materials and technology we would propose. Finally, we received input on the ideas we had as well as new ideas from students.
 
-<img src="../Images/Home/CaseStudies/BestFronds/Best-Fronds-User-Research-1.jpg" height="200"/>
-<img src="../Images/Home/CaseStudies/BestFronds/Best-Fronds-User-Research-2.jpg" height="200"/>
+<img src="../Images/Home/CaseStudies/BestFronds/Best-Fronds-User-Research-1.jpg" width="300"/>
+<img src="../Images/Home/CaseStudies/BestFronds/Best-Fronds-User-Research-2.png" width="300"/>
 
 ## Design Process
 
@@ -112,8 +112,8 @@ Based on our preliminary and user research, we determined that we wanted the app
 
 ### Story Boards
 
-<img src="../Images/Home/CaseStudies/BestFronds/Best-Fronds-Storyboard-1.jpg" height="200"/>
-<img src="../Images/Home/CaseStudies/BestFronds/Best-Fronds-Storyboard-1.jpg" height="200"/>
+<img src="../Images/Home/CaseStudies/BestFronds/Best-Fronds-Storyboard-1.jpg" width="300"/>
+<img src="../Images/Home/CaseStudies/BestFronds/Best-Fronds-Storyboard-1.jpg" width="300"/>
 
 ### Final Decisions
 
