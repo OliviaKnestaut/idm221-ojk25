@@ -14,14 +14,8 @@
 
 ### Case Studies
 
-<img src="../Images/Home/Tessera-Cover-Image.png" width="500"/>
-
 #### [Tessera, Interaction Design](CS1_Tessera_Content.md)
 
-<img src="../Images/Home/Riverfront-Wilm-Cover-Image.png" width="500"/>
-
 #### [Riverfront Wilmington, Interactive Website Redesign](CS2_RiverfrontWilm_Content.md)
-
-<img src="../Images/Home/Best-Fronds-Cover-Image.png" width="500"/>
 
 #### [Best Fronds, Multimedia Product and App Design](CS3_BestFronds_Content.md)

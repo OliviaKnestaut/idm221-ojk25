@@ -11,8 +11,6 @@
 - [About](About_Content.md)
 - [Resume](Resume_Content.md)
 
-<img src="../Images/About/Olivia-Banner.jpg" width="1000"/>
-
 ## About Olivia
 
 I am a User Experience & Interaction Design Student at Drexel University who is passionate about creativity, problem-solving, and making technology accessible to all. As a disabled student, one of my main goals is to get involved with the improvement of accessibility in media. I want to promote the consideration of a range of disabilities throughout every step of the process of technology development. Outside of my technology interests, I love crocheting and taking care of houseplants.
