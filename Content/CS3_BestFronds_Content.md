@@ -37,6 +37,51 @@ College students need a device to help them care for indoor plants and cultivate
 
 Our target audience age range was 15-25 year old high school and college students. The products were designed with experienced and non-experience plant owners in mind.
 
+### User Persona: Anna LaPorte
+
+#### Biography
+
+Anna is a graduate student studying business. She has little experience taking care of plants but is convinced by the indoor plant trend to have a plant in her dorm. ​
+
+**Gender:** Female
+
+**Age:** 22 Years Old
+
+**Occupation:** Graduate Student
+
+#### Quote
+
+> “I don't think I have a green thumb, but I want to get a nice plant for my apartment.”​
+
+#### Personality
+
+- Extroverted
+- Hates Deadlines
+- Creative
+- Busy
+
+### User Persona: Jenna Plante
+
+#### Biography
+
+Jenna is a college student in a technology major. She has a large collection of plants and lots of experience taking care of them.​
+
+**Gender:** Female
+
+**Age:** 18 Years Old
+
+**Occupation:** Undergraduate Student
+
+#### Quote
+
+> “Taking care of all my plants can be very difficult. I love them, but a little help wouldn’t hurt”​
+
+#### Personality
+
+- Academic
+- Nature Lover
+- Artist
+
 ## Roles & Responsibilities
 
 ### Olivia
@@ -102,9 +147,42 @@ Based on our preliminary and user research, we determined that we wanted the app
 
 ### Story Boards
 
+### Sketches
+
+We experimented with sketching out different possible solutions based on some of the key elements we noted in our affinity map. After the initial sketches, we expanded on some of out favorite ideas.
+
+### Colors
+
+Out main app colors are natural, while our accent colors are vibrant and sunny. We considered more vibrant colors, but since one of the main focuses of our app is mental health we did not want them to be too overwhelming.​
+
 ### Final Decisions
 
 After creating a range of ideation sketches we received feedback form our PROD: 215 class and instructor to choose our final direction. We gave priority to features and design ideas that had received the most positive feedback from our class and survey participants. We also chose concepts that could be prototyped in the 2 week time span we had for the rest of the project.
+
+#### Physical Object
+
+- 360 degree solar panel
+- Detachable base tray
+- Electronics embedded in bottom
+- Moisture sensors
+- Rounded shape
+
+#### App Content
+
+- Water tracker
+- Sun tracker
+- Plant journal
+- Connectivity between multiple pots
+- Community aspect
+- Notifications and status board
+
+#### App Aesthetics
+
+- Plant avatar
+- Muted natural colors
+- Simple and soothing
+- Emoji and graphic communication
+- Plant puns
 
 ## Results
 
@@ -115,3 +193,28 @@ For the physical product we decided we would like to market it at about $15. In 
 ### App Prototype
 
 #### [Figma Prototype](https://www.figma.com/proto/Q4fB1Ct0SJk214ZKSueVfw/Olivia-Knestaut?page-id=36%3A2&node-id=76%3A2&viewport=332%2C197%2C0.12&scaling=scale-down&starting-point-node-id=76%3A2)
+
+#### Log-In & Sign-Up
+
+#### Home Screen
+
+- Helps cultivate a relationship with your plant
+- Lists daily tasks
+- Gives important information on water and sun
+
+#### Plant Journal
+
+- Helps users become closer to nature through journaling
+- Simple interface to alleviate stress
+
+#### Plant Community
+
+- A community page/forum allows users to further immerse themselves with other nature lovers​
+- The page will be tailored to the interests of the user​
+- Interact and have fun with others who use Best Fronds
+
+#### Plant Resources
+
+- A plant resources page supplies news articles, mental health media, and plant care support​
+- Resources are great for new and old plant parents​
+- Mental health-oriented content helps inspire users to bring nature into their lives in other ways.​
