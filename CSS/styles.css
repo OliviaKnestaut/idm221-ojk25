@@ -1,55 +1,55 @@
 @font-face {
     font-family: 'Montserrat';
-    src: url(../Fonts/Montserrat/Montserrat-VariableFont_wght.ttf) format(TrueType);
+    src: url(../fonts/montserrat/Montserrat-VariableFont_wght.ttf) format(TrueType);
     font-weight: 100 900;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Montserrat';
-    src: url(../Fonts/Montserrat/Montserrat-Italic-VariableFont_wght.ttf) format(TrueType);
+    src: url(../fonts/montserrat/Montserrat-Italic-VariableFont_wght.ttf) format(TrueType);
     font-weight: 100 900;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Averia Serif Libre';
-    src: url('../Fonts/Averia_Serif_Libre/averiaseriflibre-bold-webfont.woff2') format('woff2');
+    src: url('../fonts/averia_serif_libre/averiaseriflibre-bold-webfont.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Averia Serif Libre';
-    src: url('../Fonts/Averia_Serif_Libre/averiaseriflibre-bolditalic-webfont.woff2') format('woff2');
+    src: url('../fonts/averia_serif_libre/averiaseriflibre-bolditalic-webfont.woff2') format('woff2');
     font-weight: 700;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Averia Serif Libre';
-    src: url('../Fonts/Averia_Serif_Libre/averiaseriflibre-italic-webfont.woff2') format('woff2');
+    src: url('../fonts/averia_serif_libre/averiaseriflibre-italic-webfont.woff2') format('woff2');
     font-weight: 400;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Averia Serif Libre';
-    src: url('../Fonts/Averia_Serif_Libre/averiaseriflibre-light-webfont.woff2') format('woff2');
+    src: url('../fonts/averia_serif_libre/averiaseriflibre-light-webfont.woff2') format('woff2');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Averia Serif Libre';
-    src: url('../Fonts/Averia_Serif_Libre/averiaseriflibre-lightitalic-webfont.woff2') format('woff2');
+    src: url('../fonts/averia_serif_libre/averiaseriflibre-lightitalic-webfont.woff2') format('woff2');
     font-weight: 300;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Averia Serif Libre';
-    src: url('../Fonts/Averia_Serif_Libre/averiaseriflibre-regular-webfont.woff2') format('woff2');
+    src: url('../fonts/averia_serif_libre/averiaseriflibre-regular-webfont.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
 }
