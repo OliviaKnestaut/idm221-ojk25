@@ -3,38 +3,86 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/styles.css" />
+    <link rel="stylesheet" href="CSS/normalize.css" />
     <title>Design and Media</title>
 </head>
 <body>
     <header>
-        <div>
-            <nav>
-                <ul>
-                    <li><a href="index.html">Portfolio</a>
-                        <ul>
-                            <li><a href="case-studies.html">Case Studies</a>
-                                <ul>
-                                    <li><a href="tessera.html">Tessera</a></li>
-                                    <li><a href="riverfront-wilmington.html">Riverfront Wilmington</a></li>
-                                    <li><a href="best-fronds.html">Best Fronds</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="photography.html">Photography</a></li>
-                            <li><a href="design-and-media.html">Design & Media</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="about.html">About</a></li>
-                    <li><a href="resume.html">Resume</a></li>
-                </ul>
-            </nav>
-            <img src="Images/OK-Logo.png" alt="Personal logo: letters O and K in lowercase cursive">
+        <nav>
+            <div class="overlay">
+                <label for="toggle">
+                    <img src="Images/Home/Hamburger-Bars.svg" alt="">
+                </label>
+                <a class="nav-logo" href="index.html"><img src="Images/Home/OK-Logo.svg" alt="">
+                </a>
+            </div>
+            <input type="checkbox" id="toggle" name="toggle">
+            <ul class="nav-links">
+                <li><a href="index.html">Portfolio</a>
+                    <ul>
+                        <li><a href="case-studies.html">Case Studies</a>
+                            <ul>
+                                <li><a href="tessera.html">Tessera</a></li>
+                                <li><a href="riverfront-wilmington.html">Riverfront Wilmington</a></li>
+                                <li><a href="best-fronds.html">Best Fronds</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="photography.html">Photography</a></li>
+                        <li><a href="design-and-media.html">Design & Media</a></li>
+                    </ul>
+                </li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="resume.html">Resume</a></li>
+            </ul>
+        </nav>
+        <div class="common-header">
+            <img class="long-img" src="Images/Home/DesignAndMedia/Computer-Header-Round.png" alt="">
+            <div class="page-title">
+                <h2>Design & Media</h2>
+                <img class="black-to-grey-blue left-dot" src="Images/Edge-Circle.svg" alt="">
+                <img class="black-to-light-orange" src="Images/Edge-Circle.svg" alt="">
+            </div>
         </div>
-        <img src="Images/Home/DesignAndMedia/Computer-Header-Small.jpg" alt="Olivia doing design work on her laptop">
-        <h2>Design & Media</h2>
     </header>
 
     <main>
-
+        <section>
+            <div class="page-title">
+                <h3 class="sub-header-left">Animation & Film</h3>
+                <img class="black-to-dark-orange med-dot" src="Images/Edge-Circle.svg" alt="">
+            </div>
+            <div>
+                <img src="Images/Home/DesignAndMedia/Unwind_Video_Cover-Small.jpg" alt="Video Button over grayscale water scene">
+                <h3>unwind</h3>
+                <p>VSST 108: Design I for Media</p>
+            </div>
+            <div>
+                <img src="Images/Home/DesignAndMedia/Vivid_Video_Cover-Small.jpg" alt="Video Button over ladybug cage artwork">
+                <h3>VIVID</h3>
+                <p>VSST 109: Design II for Media</p>
+            </div>
+            <div>
+                <img src="Images/Home/DesignAndMedia/Disconnected_Video-Cover-Small.jpg" alt="Video Button over ladybug cage artwork">
+                <h3>Disconnected</h3>
+                <p>Cinema Studies Short Film</p>
+            </div>
+            <a href="#Top" class="back-to-top">
+                <svg class="back-to-top-circle" viewBox="0 0 54 54">
+                    <circle class="grey-blue" cx="27.0223" cy="26.927" r="26.9271"/>
+                </svg>
+                <div>
+                    <img src="Images/Up-Arrow.svg" alt="Up arrow">
+                    <h5>Back to Top</h5>
+                </div>
+            </a>
+        </section>
+        <section>
+            <div class="page-title">
+                <h3 class="sub-header-left">Design</h3>
+                <img class="black-to-grey-blue med-dot" src="Images/Edge-Circle.svg" alt="">
+            </div>
+        </section>
     </main>
 </body>
 </html>

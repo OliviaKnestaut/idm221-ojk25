@@ -3,37 +3,106 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/styles.css" />
+    <link rel="stylesheet" href="CSS/normalize.css" />
     <title>About Me</title>
 </head>
 <body>
     <header>
-        <div>
-            <nav>
-                <ul>
-                    <li><a href="index.html">Portfolio</a>
-                        <ul>
-                            <li><a href="case-studies.html">Case Studies</a>
-                                <ul>
-                                    <li><a href="tessera.html">Tessera</a></li>
-                                    <li><a href="riverfront-wilmington.html">Riverfront Wilmington</a></li>
-                                    <li><a href="best-fronds.html">Best Fronds</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="photography.html">Photography</a></li>
-                            <li><a href="design-and-media.html">Design & Media</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="about.html">About</a></li>
-                    <li><a href="resume.html">Resume</a></li>
-                </ul>
-            </nav>
-            <img src="Images/OK-Logo.png" alt="Personal logo: letters O and K in lowercase cursive">
+        <nav>
+            <div class="overlay">
+                <label for="toggle">
+                    <img src="Images/Home/Hamburger-Bars.svg" alt="">
+                </label>
+                <a class="nav-logo" href="index.html"><img src="Images/Home/OK-Logo.svg" alt="">
+                </a>
+            </div>
+            <input type="checkbox" id="toggle" name="toggle">
+            <ul class="nav-links">
+                <li><a href="index.html">Portfolio</a>
+                    <ul>
+                        <li><a href="case-studies.html">Case Studies</a>
+                            <ul>
+                                <li><a href="tessera.html">Tessera</a></li>
+                                <li><a href="riverfront-wilmington.html">Riverfront Wilmington</a></li>
+                                <li><a href="best-fronds.html">Best Fronds</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="photography.html">Photography</a></li>
+                        <li><a href="design-and-media.html">Design & Media</a></li>
+                    </ul>
+                </li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="resume.html">Resume</a></li>
+            </ul>
+        </nav>
+        <div class="common-header">
+            <img class="long-img" src="Images/About/Olivia-About-Banner-Small-Rounded.png" alt="Olivia standing in front of a waterfall holding onto her Drexel baseball hat">
+            <div class="page-title">
+                <h2>About Me</h2>
+                <img class="black-to-grey-blue left-dot" src="Images/Edge-Circle.svg" alt="">
+                <img class="black-to-light-orange" src="Images/Edge-Circle.svg" alt="">
+            </div>
         </div>
-        <img src="Images/About/Olivia-About-Banner-Small.jpg" alt="Olivia standing in front of a waterfall holding onto her Drexel baseball hat">
-        <h2>About Me</h2>
     </header>
 
     <main>
+        <section>
+            <p>
+                I am a User Experience & Interaction Design Student at Drexel University who is passionate about creativity, problem-solving, and nature.
+            </p>
+            <p>
+                As a disabled student, one of my main goals is to get involved with the improvement of accessibility in media. I want to promote the consideration of a range of disabilities throughout every step of the process of technology development. 
+            </p>
+            <p>
+                Outside of my outside of the digital world, you many find me crocheting, taking care of houseplants, or traveling the US National Parks.
+            </p>
+        </section>
+
+        <section>
+            <div class="page-title">
+                <h3 class="sub-header-left">Skills</h3>
+                <img class="black-to-dark-orange med-dot" src="Images/Edge-Circle.svg" alt="">
+            </div>
+            <div class="skill-icons">
+                <img src="Images/Icons/HTML-Icon.png" alt="HTML 5 Logo">
+                <img src="Images/Icons/CSS-Icon.png" alt="CSS 3 Logo">
+                <img src="Images/Icons/JS-Icon.png" alt="JavaScript Logo">
+                <img src="Images/Icons/Python-Icon.png" alt="Python Logo">
+                <img src="Images/Icons/Java-Icon.png" alt="Java Logo">
+            </div>
+            <div class="skill-icons">
+                <img src="Images/Icons/Illustrator-Icon.png" alt="Adobe Illustrator Logo">
+                <img src="Images/Icons/Photoshop-Icon.png" alt="Adobe Photoshop Logo">
+                <img src="Images/Icons/AfterEffects-Icon.png" alt="Adobe AfterEffects Logo">
+                <img src="Images/Icons/InDesign-Icon.png" alt="Adobe Indesign Logo">
+                <img src="Images/Icons/Premiere-Icon.png" alt="Adobe Premiere Pro Logo">
+                <img src="Images/Icons/Figma-Icon.png" alt="Figma Logo">
+            </div>
+        </section>
+
+        <section>
+            <div class="page-title">
+                <h3 class="sub-header-left">Get in Touch</h3>
+                <img class="black-to-grey-blue med-dot" src="Images/Edge-Circle.svg" alt="">
+            </div>
+            <div>
+                <img src="Images/About/Olivia-Olympic-NP-small.jpg" alt="Olivia looking up at a massive old growth tree in a rainforst at Olympic Naional Park">
+                <img class="black-to-grey-blue med-dot" src="Images/Edge-Circle.svg" alt="">
+            </div>
+
+            <div>
+                <p>
+                    I am always looking for collaborations and project ideas. If you want to chat about design, books, plants, or anything else, don’t hesitate to reach out.
+                </p>
+                <div>
+                    <img src="Images/About/Mail-Icon.svg" alt="Email envelope symbol">
+                    <img src="Images/About/Insta-Icon.svg" alt="Instagram camera symbol">
+                    <img src="Images/About/LinkedIn-Icon.svg" alt="LinkedIn symbol">
+                    <img src="Images/About/GitHub-Icon.svg" alt="Github sybol">
+                </div>
+            </div>
+        </section>
 
     </main>
 
