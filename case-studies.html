@@ -12,28 +12,88 @@
         <nav>
             <div class="overlay">
                 <label for="toggle">
-                    <img src="Images/Home/Hamburger-Bars.svg" alt="">
+                    <img src="images/home/Hamburger-Bars.svg" alt="Hamburger Menu">
                 </label>
-                <a class="nav-logo" href="index.html"><img src="Images/Home/OK-Logo.svg" alt="">
+                <a id="top" class="nav-logo" href="index.html"><img src="images/home/OK-Logo.svg" alt="">
                 </a>
             </div>
             <input type="checkbox" id="toggle" name="toggle">
             <ul class="nav-links">
-                <li><a href="index.html">Portfolio</a>
-                    <ul>
-                        <li><a href="case-studies.html">Case Studies</a>
-                            <ul>
-                                <li><a href="tessera.html">Tessera</a></li>
-                                <li><a href="riverfront-wilmington.html">Riverfront Wilmington</a></li>
-                                <li><a href="best-fronds.html">Best Fronds</a></li>
+                <li>
+                    <div class="nav-item">
+                        <a href="index.html">Portfolio</a>
+                        <svg class="little-circle" viewBox="0 0 50 50">
+                            <circle class="light-orange" cx="24.75" cy="24.75" r="24.75"/>
+                        </svg>
+                    </div>
+                    <ul id="sub-nav-1">
+                        <li>
+                            <div class="nav-item">
+                                <a href="case-studies.html">Case Studies</a>
+                                <svg class="little-circle" viewBox="0 0 50 50">
+                                    <circle class="grey-blue" cx="24.75" cy="24.75" r="24.75"/>
+                                </svg>
+                            </div>
+                            <ul class="sub-nav-2">
+                                <li>
+                                    <div class="nav-item">
+                                        <a href="tessera.html">Tessera</a>
+                                        <svg class="little-circle" viewBox="0 0 50 50">
+                                            <circle class="dark-orange" cx="24.75" cy="24.75" r="24.75"/>
+                                        </svg>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="nav-item">
+                                        <a href="riverfront-wilmington.html">Riverfront Wilmington</a>
+                                        <svg class="little-circle" viewBox="0 0 50 50">
+                                            <circle class="light-orange" cx="24.75" cy="24.75" r="24.75"/>
+                                        </svg>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="nav-item">
+                                        <a href="best-fronds.html">Best Fronds</a>
+                                        <svg class="little-circle" viewBox="0 0 50 50">
+                                            <circle class="grey-blue" cx="24.75" cy="24.75" r="24.75"/>
+                                        </svg>
+                                    </div>
+                                </li>
                             </ul>
                         </li>
-                        <li><a href="photography.html">Photography</a></li>
-                        <li><a href="design-and-media.html">Design & Media</a></li>
+                        <li>
+                            <div class="nav-item">
+                                <a href="photography.html">Photography</a>
+                                <svg class="little-circle" viewBox="0 0 50 50">
+                                    <circle class="dark-orange" cx="24.75" cy="24.75" r="24.75"/>
+                                </svg>
+                            </div>
+                        <li>
+                            <div class="nav-item">
+                                <a href="design-and-media.html">Design & Media</a>
+                                <svg class="little-circle" viewBox="0 0 50 50">
+                                    <circle class="light-orange" cx="24.75" cy="24.75" r="24.75"/>
+                                </svg>
+                            </div>
+                        </li>
                     </ul>
                 </li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="resume.html">Resume</a></li>
+                <li>
+                    <div class="nav-item">
+                        <a href="about.html">About</a>
+                        <svg class="little-circle" viewBox="0 0 50 50">
+                            <circle class="grey-blue" cx="24.75" cy="24.75" r="24.75"/>
+                        </svg>
+                    </div>
+                </li>
+                <li>
+                    <div class="nav-item">
+                        <a href="resume.html">Resume</a>
+                        <svg class="little-circle" viewBox="0 0 50 50">
+                            <circle class="dark-orange" cx="24.75" cy="24.75" r="24.75"/>
+                        </svg>
+                    </div>
+                    </li>
             </ul>
         </nav>
         <div class="header-space"></div>
@@ -48,10 +108,10 @@
     <main>
         <section class="home-section">
             <article class="case-study">
-                <img class="left" src="Images/Home/Tessera-Cover-Small.png" alt="3 mobile phones displaying screens from the Tessera app mock-up">
+                <img class="left" src="images/home/Tessera-Cover-Small.png" alt="3 mobile phones displaying screens from the Tessera app mock-up">
                 <div class="left-align">
                     <h2>Tessera</h2>
-                    <p>Animated Interaction Design</p>
+                    <p class="snippit">Animated Interaction Design</p>
                     <a class="button light-orange" href="tessera.html">→</a>
                 </div>
             </article>
@@ -64,10 +124,10 @@
             <article class="case-study">
                 <div class="right-align">
                     <h2>Riverfront Wilmington</h2>
-                    <p>Interactive Website Design</p>
+                    <p class="snippit">Interactive Website Design</p>
                     <a class="button grey-blue" href="riverfront-wilmington.html">→</a>
                 </div>
-                <img  class="right" src="Images/Home/Riverfront-Wilm-Cover-Small.png" alt="mobile phone and laptop displaying screens from the Riverfront Wilmington website redesign">
+                <img  class="right" src="images/home/Riverfront-Wilm-Cover-Small.png" alt="mobile phone and laptop displaying screens from the Riverfront Wilmington website redesign">
             </article>
             <svg class="big-circle" viewBox="0 0 205 205">
                 <circle class="grey-blue" cx="102.5" cy="102.5" r="102.5"/>
@@ -76,10 +136,10 @@
     
         <section class="home-section">
             <article class="case-study">
-                <img class="left" src="Images/Home/Best-Fronds-Cover-Small.png" alt="3 mobile phones displaying screens from the Best Fronds app mock-up">
+                <img class="left" src="images/home/Best-Fronds-Cover-Small.png" alt="3 mobile phones displaying screens from the Best Fronds app mock-up">
                 <div class="left-align">
                     <h2>Best Fronds</h2>
-                    <p>Product and App Design</p>
+                    <p class="snippit">Product and App Design</p>
                     <a class="button dark-orange" href="best-fronds.html">→</a>
                 </div>
             </article>
@@ -89,5 +149,8 @@
         </section>
     
     </main>
+    <footer>
+
+    </footer>
 </body>
 </html>

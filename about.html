@@ -12,28 +12,88 @@
         <nav>
             <div class="overlay">
                 <label for="toggle">
-                    <img src="images/home/Hamburger-Bars.svg" alt="Hamburger menu">
+                    <img src="images/home/Hamburger-Bars.svg" alt="Hamburger Menu">
                 </label>
-                <a class="nav-logo" href="index.html"><img src="images/home/OK-Logo.svg" alt="">
+                <a id="top" class="nav-logo" href="index.html"><img src="images/home/OK-Logo.svg" alt="">
                 </a>
             </div>
             <input type="checkbox" id="toggle" name="toggle">
             <ul class="nav-links">
-                <li><a href="index.html">Portfolio</a>
-                    <ul>
-                        <li><a href="case-studies.html">Case Studies</a>
-                            <ul>
-                                <li><a href="tessera.html">Tessera</a></li>
-                                <li><a href="riverfront-wilmington.html">Riverfront Wilmington</a></li>
-                                <li><a href="best-fronds.html">Best Fronds</a></li>
+                <li>
+                    <div class="nav-item">
+                        <a href="index.html">Portfolio</a>
+                        <svg class="little-circle" viewBox="0 0 50 50">
+                            <circle class="light-orange" cx="24.75" cy="24.75" r="24.75"/>
+                        </svg>
+                    </div>
+                    <ul id="sub-nav-1">
+                        <li>
+                            <div class="nav-item">
+                                <a href="case-studies.html">Case Studies</a>
+                                <svg class="little-circle" viewBox="0 0 50 50">
+                                    <circle class="grey-blue" cx="24.75" cy="24.75" r="24.75"/>
+                                </svg>
+                            </div>
+                            <ul class="sub-nav-2">
+                                <li>
+                                    <div class="nav-item">
+                                        <a href="tessera.html">Tessera</a>
+                                        <svg class="little-circle" viewBox="0 0 50 50">
+                                            <circle class="dark-orange" cx="24.75" cy="24.75" r="24.75"/>
+                                        </svg>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="nav-item">
+                                        <a href="riverfront-wilmington.html">Riverfront Wilmington</a>
+                                        <svg class="little-circle" viewBox="0 0 50 50">
+                                            <circle class="light-orange" cx="24.75" cy="24.75" r="24.75"/>
+                                        </svg>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="nav-item">
+                                        <a href="best-fronds.html">Best Fronds</a>
+                                        <svg class="little-circle" viewBox="0 0 50 50">
+                                            <circle class="grey-blue" cx="24.75" cy="24.75" r="24.75"/>
+                                        </svg>
+                                    </div>
+                                </li>
                             </ul>
                         </li>
-                        <li><a href="photography.html">Photography</a></li>
-                        <li><a href="design-and-media.html">Design & Media</a></li>
+                        <li>
+                            <div class="nav-item">
+                                <a href="photography.html">Photography</a>
+                                <svg class="little-circle" viewBox="0 0 50 50">
+                                    <circle class="dark-orange" cx="24.75" cy="24.75" r="24.75"/>
+                                </svg>
+                            </div>
+                        <li>
+                            <div class="nav-item">
+                                <a href="design-and-media.html">Design & Media</a>
+                                <svg class="little-circle" viewBox="0 0 50 50">
+                                    <circle class="light-orange" cx="24.75" cy="24.75" r="24.75"/>
+                                </svg>
+                            </div>
+                        </li>
                     </ul>
                 </li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="resume.html">Resume</a></li>
+                <li>
+                    <div class="nav-item">
+                        <a href="about.html">About</a>
+                        <svg class="little-circle" viewBox="0 0 50 50">
+                            <circle class="grey-blue" cx="24.75" cy="24.75" r="24.75"/>
+                        </svg>
+                    </div>
+                </li>
+                <li>
+                    <div class="nav-item">
+                        <a href="resume.html">Resume</a>
+                        <svg class="little-circle" viewBox="0 0 50 50">
+                            <circle class="dark-orange" cx="24.75" cy="24.75" r="24.75"/>
+                        </svg>
+                    </div>
+                    </li>
             </ul>
         </nav>
         <div class="common-header">
@@ -60,9 +120,9 @@
         </section>
 
         <section>
-            <div class="page-title">
-                <h3 class="sub-header-left">Skills</h3>
-                <img class="black-to-dark-orange med-dot" src="images/Edge-Circle.svg" alt="">
+            <div class="skill-title">
+                <h2 class="right-title">Skills</h2>
+                <img class="black-to-dark-orange skill-dot" src="images/Edge-Circle.svg" alt="">
             </div>
             <div class="skill-icons">
                 <img src="images/icons/HTML-Icon.png" alt="HTML 5 Logo">
@@ -82,26 +142,30 @@
         </section>
 
         <section>
-            <div class="page-title">
-                <h3 class="sub-header-left">Get in Touch</h3>
-                <img class="black-to-grey-blue med-dot" src="images/Edge-Circle.svg" alt="">
-            </div>
-            <div>
-                <img src="images/about/Olivia-Olympic-NP-small.jpg" alt="Olivia looking up at a massive old growth tree in a rainforst at Olympic Naional Park">
-                <img class="black-to-grey-blue med-dot" src="images/Edge-Circle.svg" alt="">
-            </div>
-
-            <div>
-                <p>
-                    I am always looking for collaborations and project ideas. If you want to chat about design, books, plants, or anything else, don’t hesitate to reach out.
-                </p>
-                <div>
-                    <img src="images/about/Mail-Icon.svg" alt="Email envelope symbol">
-                    <img src="images/about/Insta-Icon.svg" alt="Instagram camera symbol">
-                    <img src="images/about/LinkedIn-Icon.svg" alt="LinkedIn symbol">
-                    <img src="images/about/GitHub-Icon.svg" alt="Github sybol">
+            <div class="in-touch">
+                <div class="page-title">
+                    <h2>Get in Touch</h2>
+                    <img class="black-to-grey-blue" src="images/Edge-Circle.svg" alt="">
                 </div>
             </div>
+            <div class="in-touch-section">
+                <img class="vert-img" src="images/about/Olivia-Olympic-NP-small.jpg" alt="Olivia looking up at a massive old growth tree in a rainforst at Olympic Naional Park">
+                <div>
+                    <p>
+                        I am always looking for collaborations and project ideas. If you want to chat about design, books, plants, or anything else, don’t hesitate to reach out.
+                    </p>
+                    <div class="social-icons">
+                        <a href="mailto: olivia.knestaut@gmail.com" target="_blank"><img src="images/about/Mail-Icon.svg" alt="Email envelope symbol"></a>
+                        <a href="https://www.instagram.com/ollywhelmed/" target="_blank"><img src="images/about/Insta-Icon.svg" alt="Instagram camera symbol"></a>
+                    </div>
+                    <div class="social-icons">
+                        <a href="https://www.linkedin.com/in/oliviaknestaut/" target="_blank"><img src="images/about/LinkedIn-Icon.svg" alt="LinkedIn symbol"></a>
+                        <a href="https://github.com/OliviaKnestaut" target="_blank"><img src="images/about/GitHub-Icon.svg" alt="Github sybol"></a>
+                    </div>
+                </div>
+                <img class="black-to-light-orange about-dot" src="images/Edge-Circle.svg" alt="">
+            </div>
+        
         </section>
 
     </main>

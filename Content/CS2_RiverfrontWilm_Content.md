@@ -36,7 +36,7 @@ The Riverfront Wilmington website is in need of reworking because the current we
 
 ## Users & Audience
 
-the audience of this website covers a wide range, so I created 3 user personas to base my solutions around. these three personas are essentially, the local, the worker, and the tourist.
+The audience of this website covers a wide range, so I created 3 user personas to base my solutions around. these three personas are essentially, the local, the worker, and the tourist.
 
 ## Roles & Responsibilities
 
@@ -50,7 +50,7 @@ In IDM 211: Interface Design I, we were tasked with selecting a website we thoug
 
 ### Mood Boards
 
-After determining some of the main things to focus on improving I began to test font and color pairings. I chose an orange/rust and blue/teal color scheme because I felt it captured the historical and industrial roots of the Wilmington Riverfront as well as the river. for my header and title font I chose Reem Kufi, in all caps, and for my body text, I chose Baskerville. I think the sans-serif and serif fonts have a nice contrast that feels both modern and historical.
+After determining some of the main things to focus on improving I began to test font and color pairings. Below are 3 mood boards I made to narrow down my design concept. I chose the first board shown below. I went with an orange/rust and blue/teal color scheme because I felt it captured the historical and industrial roots of the Wilmington Riverfront as well as the river. for my header and title font I chose Reem Kufi, in all caps, and for my body text, I chose Baskerville. I think the sans-serif and serif fonts have a nice contrast that feels both modern and historical.
 
 ### Site Maps and Navigation Reorganization
 
