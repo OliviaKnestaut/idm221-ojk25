@@ -318,19 +318,27 @@ div.header-space{
 .button{
     border-style: solid;
     border-width: 2vw;
-    border-radius: 10vw;
+    border-radius: 20vw;
     border-color: var(--background);
     margin: 3vw;
     padding: 4vw;
     color: var(--background);
 }
 
+.arrow-button{
+    font-family: var(--Montserrat);
+    font-size: 12vw;
+    font-weight:600;
+    text-align: center;
+    line-height: 8vw;
+}
+
 div.left-align a.button, div.right-align a.button {
-    font-size: 6vw;
     text-decoration: none;
     margin-top: 1vw;
-    margin-bottom: 0vw;
-    width: 7vw;
+    margin-bottom: 0;
+    padding-bottom: 5.5vw;
+    width: 9.5vw;
 }
 
 a.light-orange:hover{
@@ -578,6 +586,19 @@ div.right-align > h2{
 .photo-buttons img{
     width: 28vw;
 }
+
+.ig-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80vw;
+    margin: auto;
+    color: var(--background);
+}
+.ig-icon{
+    width: 20vw;
+}
+
 .photo-section{
     display: flex;
     flex-direction: column;
@@ -707,6 +728,10 @@ div.right-align > h2{
 }
 
 /*ABOUT*/
+
+#skill-icons{
+    margin-top: 12vw;
+}
 
 .skill-title{
     position: relative;
